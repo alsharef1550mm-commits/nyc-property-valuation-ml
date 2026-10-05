@@ -1,7 +1,8 @@
 # NYC Property Valuation AI: End-to-End Machine Learning Pipeline & Deployment
 
-[[https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue]](https://huggingface.co/spaces/abade1990/nyc-property-ai)
-[[https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg]](https://www.python.org/)
+[https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue]
+[https://img.shields.io/badge/Python-3.10%2B-brightgreen]
+[https://img.shields.io/badge/Library-Scikit--Learn-orange]
 [[https://img.shields.io/badge/Library-Scikit--Learn-orange.svg]](https://scikit-learn.org/)
 [[https://img.shields.io/badge/License-MIT-yellow.svg]](https://opensource.org/licenses/MIT)
 
